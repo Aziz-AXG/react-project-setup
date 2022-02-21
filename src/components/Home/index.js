@@ -3,7 +3,7 @@ import './Home.css'
 
 
 
-const AboutVienox = () => {
+const Home = () => {
 
     return (
         <div className='hello'>
@@ -12,4 +12,4 @@ const AboutVienox = () => {
     );
 };
 
-export default AboutVienox;
+export default Home;
